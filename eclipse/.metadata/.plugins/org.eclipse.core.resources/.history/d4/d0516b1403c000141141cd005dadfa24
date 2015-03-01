@@ -1,0 +1,6 @@
+package eu.oisinsmith.OCraft.reference;
+
+public class Reference {
+	public static final String MOD_ID = "OCraft";
+	public static final String MOD_NAME 
+}

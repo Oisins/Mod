@@ -1,0 +1,59 @@
+[12:55:21] [main/INFO]: Setting user: Player835
+[12:55:24] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:55:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oisin's Mod
+[12:55:29] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:55:30] [Sound Library Loader/INFO]: Sound engine started
+[12:55:34] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:55:34] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:55:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oisin's Mod
+[12:55:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:55:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:55:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:55:36] [Sound Library Loader/INFO]: Sound engine started
+[12:59:37] [Client thread/INFO]: Stopping!
+551
+[12:59:23] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:59:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oisin's Mod
+[12:59:38] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:59:40] [Sound Library Loader/INFO]: Sound engine started
+[12:59:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:59:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:59:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oisin's Mod
+[12:59:50] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:59:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:59:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:59:51] [Sound Library Loader/INFO]: Sound engine started
+[13:01:56] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:01:56] [Server thread/INFO]: Generating keypair
+[13:01:56] [Server thread/INFO]: Converting map!
+[13:01:56] [Server thread/INFO]: Scanning folders...
+[13:01:56] [Server thread/INFO]: Total conversion count is 0
+[13:01:57] [Server thread/INFO]: Preparing start region for level 0
+[13:01:58] [Server thread/INFO]: Preparing spawn area: 5%
+[13:01:59] [Server thread/INFO]: Preparing spawn area: 14%
+[13:02:00] [Server thread/INFO]: Preparing spawn area: 26%
+[13:02:01] [Server thread/INFO]: Preparing spawn area: 34%
+[13:02:02] [Server thread/INFO]: Preparing spawn area: 44%
+[13:02:03] [Server thread/INFO]: Preparing spawn area: 53%
+[13:02:04] [Server thread/INFO]: Preparing spawn area: 66%
+[13:02:05] [Server thread/INFO]: Preparing spawn area: 81%
+[13:02:06] [Server thread/INFO]: Preparing spawn area: 95%
+[13:02:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:02:08] [Server thread/INFO]: Player551[local:E:c4ce8e5b] logged in with entity id 231 at (8.5, 81.0, 247.5)
+[13:02:08] [Server thread/INFO]: Player551 joined the game
+[13:02:11] [Server thread/INFO]: Saving and pausing game...
+[13:02:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[13:02:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[13:02:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[13:02:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11025ms behind, skipping 220 tick(s)
+[13:02:26] [Server thread/INFO]: Saving and pausing game...
+[13:02:26] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[13:02:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[13:02:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[13:02:30] [Server thread/INFO]: Stopping server
+[13:02:30] [Server thread/INFO]: Saving players
+[13:02:30] [Server thread/INFO]: Saving worlds
+[13:02:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[13:02:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[13:02:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[13:02:36] [Client thread/INFO]: Stopping!

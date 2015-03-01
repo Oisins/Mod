@@ -1,0 +1,5 @@
+package eu.oisinsmith.OCraft.proxys;
+
+public class ClientProxy extends CommonProxy{
+
+}

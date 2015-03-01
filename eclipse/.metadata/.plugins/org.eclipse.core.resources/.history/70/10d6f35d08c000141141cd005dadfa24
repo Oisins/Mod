@@ -1,0 +1,9 @@
+package eu.oisinsmith.OCraft.Configuration;
+
+import java.io.File;
+
+public class ConfigurationHandler {
+	public static void init(File configFile){
+		
+	}
+}

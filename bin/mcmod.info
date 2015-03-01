@@ -1,0 +1,23 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "OCraft",
+    "name": "Oisin's Mod",
+    "description": "A simple mod.",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "http://www.oisinsmith.eu",
+    "updateUrl": "",
+    "authorList": ["Oisin Smith"],
+    "credits": "Made by Oisin Smith",
+    "logoFile": "",
+    "logoFile": "",
+    "parent": "",
+    "requiredMods": [],
+    "screenshots": [],
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": false
+  }]
+}

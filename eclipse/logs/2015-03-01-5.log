@@ -1,0 +1,12 @@
+[12:55:21] [main/INFO]: Setting user: Player835
+[12:55:24] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:55:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oisin's Mod
+[12:55:29] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:55:30] [Sound Library Loader/INFO]: Sound engine started
+[12:55:34] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:55:34] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:55:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oisin's Mod
+[12:55:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:55:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:55:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:55:36] [Sound Library Loader/INFO]: Sound engine started

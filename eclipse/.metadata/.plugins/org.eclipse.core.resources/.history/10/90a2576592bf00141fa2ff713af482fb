@@ -1,0 +1,29 @@
+package eu.oisinsmith.OCraft;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.Mod.Instance;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+
+@Mod(modid="OCraft", name="OCraft", version="1.7.10-1.0")
+public class OCraft {
+	@Instance
+	public static OCraft instance;
+	
+	@Mod.EventHandler
+	//Network, Config, Blocks, Items
+	public void preInit(FMLPreInitializationEvent event){
+		
+	}
+	@Mod.EventHandler
+	//Gui, Tile Entitys, Crafting
+	public void init(FMLInitializationEvent event){
+		
+	}
+	@Mod.EventHandler
+	public void postInit(FMLPostInitializationEvent event){
+		
+	}
+}
